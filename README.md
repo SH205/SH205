@@ -72,12 +72,8 @@ Pandas • NumPy • Scikit-learn • Statistical Modeling • Feature Engineeri
 **Data & Analytics:**
 Tableau • Streamlit • Data Visualization • Exploratory Data Analysis 
 
-**AI / Data Engineering:**
+**AI / Generative AI:**
 LangChain • RAG • FAISS • Hugging Face
-
-**AI / Generative AI:**  
-LangChain • RAG • FAISS • Hugging Face
-
 
 **Tools:**
 Git • GitHub • VS Code • Jupyter Notebook • RStudio • Windsurf/Devon • Databricks • Streamlit
