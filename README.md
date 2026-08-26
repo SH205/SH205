@@ -3,7 +3,7 @@
 
 ### Data Analyst | Data Scientist | Machine Learning
 
-I’m a **Financial mathematics and statistics B.S. graduate** focused on building data-driven solutions that turn real-world business problems into actionable insights.
+I’m a **Financial mathematics and statistics B.S. graduate** focused on using data, statistics, and machine learning to solve real-world problems.
 
 My projects span **data analysis, machine learning, SQL, analytics dashboards, APIs, and AI/RAG applications**.
 
@@ -70,15 +70,17 @@ Python • SQL • R
 Pandas • NumPy • Scikit-learn • Statistical Modeling • Feature Engineering • Model Evaluation • Predictive Modeling
 
 **Data & Analytics:**
-Tableau • Streamlit • Data Visualization • Exploratory Data Analysis • Business Analytics
+Tableau • Streamlit • Data Visualization • Exploratory Data Analysis 
 
 **AI / Data Engineering:**
-LangChain • RAG • FAISS • Hugging Face • REST APIs • ETL • Data Pipelines
+LangChain • RAG • FAISS • Hugging Face
+
+**AI / Generative AI:**  
+LangChain • RAG • FAISS • Hugging Face
+
 
 **Tools:**
-Git • GitHub • VS Code • Jupyter Notebook • RStudio • Windsurf/Devon • Databricks 
-
-
+Git • GitHub • VS Code • Jupyter Notebook • RStudio • Windsurf/Devon • Databricks • Streamlit
 
 <!--
 **SH205/SH205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
