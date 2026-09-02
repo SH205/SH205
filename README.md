@@ -15,7 +15,7 @@ I’m especially interested in roles where I can combine **statistics, programmi
 
 ## 🚀 Featured Projects
 
-🏪 [Retail Site Selection — Orlando](https://github.com/SH205/Retail-Location-Selection)
+### [Retail Site Selection — Orlando](#)
 
 **Data Engineering • SQL • Python • Geospatial Analysis • Business Intelligence**
 
@@ -81,10 +81,10 @@ Analyzed customer data and developed interactive visualizations to identify cust
 ## 🧰 Technical Skills
 
 **Languages:**
-Python • SQL • R
+Python • SQL • R • HTML • CSS • JavaScript
 
 **Data Science & Machine Learning:**
-Pandas • NumPy • Scikit-learn • Statistical Modeling • Feature Engineering • Model Evaluation • Predictive Modeling
+Pandas • NumPy • Scikit-learn • Statistical Modeling • Feature Engineering • Model Evaluation • Predictive Modeling • GeoPandas • Leaflet.js 
 
 **Data & Analytics:**
 Tableau • Streamlit • Data Visualization • Exploratory Data Analysis 
