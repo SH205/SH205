@@ -15,7 +15,7 @@ I’m especially interested in roles where I can combine **statistics, programmi
 
 ## 🚀 Featured Projects
 
-### [Retail Site Selection — Orlando](#)
+### 🏪 Retail Site Selection — Orlando
 
 **Data Engineering • SQL • Python • Geospatial Analysis • Business Intelligence**
 
@@ -32,7 +32,7 @@ End-to-end data engineering and analytics project that identifies and ranks pote
 
 
 
-### 🏠 [Airbnb Price Predictor](#)
+### 🏠 Airbnb Price Predictor
 
 **Machine Learning • Python • Scikit-learn • Streamlit**
 
@@ -47,7 +47,7 @@ End-to-end machine learning application that predicts Airbnb nightly prices.
 
 ---
 
-### 🤖 [AI-Document-Assistant](#)
+### 🤖 AI-Document-Assistant
 
 **Generative AI • RAG • LangChain • FAISS • Hugging Face • Streamlit**
 
@@ -64,7 +64,7 @@ AI-powered question-answering application that retrieves relevant information fr
 ---
 
 
-### 🧠 [Bank Churn Prediction — ChurnOrbit](#)
+### 🧠 Bank Churn Prediction — ChurnOrbit
 
 **HTML • CSS • Javascript**
 
