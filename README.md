@@ -15,6 +15,23 @@ I’m especially interested in roles where I can combine **statistics, programmi
 
 ## 🚀 Featured Projects
 
+🏪 [Retail Site Selection — Orlando](https://github.com/SH205/Retail-Location-Selection)
+
+**Data Engineering • SQL • Python • Geospatial Analysis • Business Intelligence**
+
+Business Problem: Where should a retail company open its next location in the Orlando market?
+
+End-to-end data engineering and analytics project that identifies and ranks potential retail locations in the Orlando market.
+
+* Analyzed **267 census tracts** and **194 potential locations**
+* Integrated **U.S. Census and OpenStreetMap** data for demographics, competition, and accessibility
+* Developed a **Site Selection Score** to rank retail opportunities
+* Identified the **top 20 locations** and built an interactive HTML map
+
+**→ [View Project](https://github.com/SH205/Retail-Location-Selection)**
+
+
+
 ### 🏠 [Airbnb Price Predictor](#)
 
 **Machine Learning • Python • Scikit-learn • Streamlit**
