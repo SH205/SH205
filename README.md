@@ -31,7 +31,6 @@ End-to-end data engineering and analytics project that identifies and ranks pote
 **→ [View Project](https://github.com/SH205/Retail-Location-Selection)**
 
 
-
 ### 🏠 Airbnb Price Predictor
 
 **Machine Learning • Python • Scikit-learn • Streamlit**
@@ -45,7 +44,6 @@ End-to-end machine learning application that predicts Airbnb nightly prices.
 
 **→ [View Project](https://github.com/SH205/Airbnb-price-predictor)**
 
----
 
 ### 🤖 AI-Document-Assistant
 
@@ -60,8 +58,6 @@ AI-powered question-answering application that retrieves relevant information fr
 * Interactive Streamlit interface
 
 **→ [View Project](https://github.com/SH205/AI-Document-Assistant)**
-
----
 
 
 ### 🧠 Bank Churn Prediction — ChurnOrbit
