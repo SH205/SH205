@@ -31,6 +31,23 @@ End-to-end data engineering and analytics project that identifies and ranks pote
 **→ [View Project](https://github.com/SH205/Retail-Location-Selection)**
 
 
+### 📈 Walmart Weekly Sales Forecasting
+
+**Time Series Forecasting • Python • Pandas • Statsmodels • ARIMA/SARIMA**
+
+**Business Problem: How accurately can historical sales data forecast future weekly demand for operational planning?**
+
+* Analyzed **2 years of weekly sales data** and identified **52-week seasonal patterns**
+* Built and evaluated **ARIMA and SARIMA** forecasting models using time-based train/test validation
+* Achieved **6.86% MAPE**, **$104.9K MAE**, and **$122.6K RMSE** on the test set
+* Performed **residual analysis** and found approximately **1.07% average forecast bias** relative to average weekly sales
+* Compared **forecasted vs. actual sales** to evaluate model performance
+
+**→ [View Project](https://github.com/SH205/Walmart-Weekly-Sales-Forecasting)**
+
+
+
+
 ### 🏠 Airbnb Price Predictor
 
 **Machine Learning • Python • Scikit-learn • Streamlit**
