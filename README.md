@@ -1,8 +1,6 @@
 
 # Hi there 👋
 
-### Data Analyst | Data Scientist | Machine Learning
-
 I’m a **Financial mathematics and statistics B.S. graduate** focused on using data, statistics, and machine learning to solve real-world problems.
 
 My projects span **data analysis, machine learning, SQL, analytics dashboards, APIs, and AI/RAG applications**.
