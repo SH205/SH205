@@ -3,15 +3,41 @@
 
 I’m a **Financial mathematics and statistics B.S. graduate** focused on using data, statistics, and machine learning to solve real-world problems.
 
-My projects span **data analysis, machine learning, SQL, analytics dashboards, APIs, and AI/RAG applications**.
+My projects demonstrate experience across **data analysis, machine learning, NLP, SQL, data visualization, geospatial analysis, APIs, and AI/RAG applications**.
 
 📍 Open to **entry-level Data Analyst, Business Analytics, Data Scientist, and Machine Learning roles**
 
 I’m especially interested in roles where I can combine **statistics, programming, machine learning, and business problem-solving**.
 
 ---
-
 ## 🚀 Featured Projects
+
+### Table of Contents
+
+- ⚖️ [Legal Clause Classification with ML](#-legal-clause-classification-with-ml)
+- 🏪 [Retail Site Selection — Orlando](#-retail-site-selection--orlando)
+- 📈 [Walmart Weekly Sales Forecasting](#-walmart-weekly-sales-forecasting)
+- 🏠 [Airbnb Price Predictor](#-airbnb-price-predictor)
+- 🤖 [AI Document Assistant](#-ai-document-assistant)
+- 🧠 [Bank Churn Prediction — ChurnOrbit](#-bank-churn-prediction--churnorbit)
+---
+
+### ⚖️ Legal Clause Classification with ML
+
+**NLP • Machine Learning • Python • Scikit-learn • PyTorch • BERT • RoBERTa • Streamlit**
+
+**Business Problem: How can legal documents be automatically classified into standardized legal clause categories?**
+
+End-to-end NLP and machine learning project that classifies legal documents across **100 legal clause categories**, progressing from traditional machine learning to transformer-based models.
+
+- Analyzed **80K+ legal documents** from the LEDGAR dataset and evaluated class imbalance across **100 categories**
+- Built and compared **TF-IDF + Logistic Regression, Random Forest, XGBoost, and PyTorch neural network** classifiers
+- Achieved **86.15% accuracy** and **0.787 macro F1** with the Random Forest model
+- Fine-tuned **BERT and RoBERTa** transformer models for legal document classification
+- Built a **Streamlit application** for interactive legal document classification
+
+**→ [View Project](https://github.com/SH205/Legal-Clause-Classification-with-ML)**
+
 
 ### 🏪 Retail Site Selection — Orlando
 
@@ -42,9 +68,6 @@ End-to-end data engineering and analytics project that identifies and ranks pote
 * Compared **forecasted vs. actual sales** to evaluate model performance
 
 **→ [View Project](https://github.com/SH205/Walmart-Weekly-Sales-Forecasting)**
-
-
-
 
 ### 🏠 Airbnb Price Predictor
 
@@ -92,7 +115,7 @@ Analyzed customer data and developed interactive visualizations to identify cust
 ## 🧰 Technical Skills
 
 **Languages:**
-Python • SQL • R • HTML • CSS • JavaScript
+Python • SQL • R
 
 **Data Science & Machine Learning:**
 Pandas • NumPy • Scikit-learn • Statistical Modeling • Feature Engineering • Model Evaluation • Predictive Modeling • GeoPandas • Leaflet.js 
