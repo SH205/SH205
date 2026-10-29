@@ -1,26 +1,67 @@
 
 # Hi there 👋
 
-I’m a **Financial mathematics and statistics B.S. graduate** focused on using data, statistics, and machine learning to solve real-world problems.
+I’m a **Financial Mathematics and Statistics B.S. graduate** who uses data, statistics, and programming to solve real-world problems and support data-driven decisions.
 
-My projects demonstrate experience across **data analysis, machine learning, NLP, SQL, data visualization, geospatial analysis, APIs, and AI/RAG applications**.
+My projects demonstrate hands-on experience in SQL, Python, data cleaning, exploratory data analysis, statistical modeling, machine learning, and data visualization. I focus on identifying trends, evaluating performance, building predictive models, and translating findings into actionable business recommendations.
 
-📍 Open to **entry-level Data Analyst, Business Analytics, Data Scientist, and Machine Learning roles**
+📍 Open to **entry-level Data Analyst, Business Analyst, Product Analyst, and Data Scientist opportunities**.
 
-I’m especially interested in roles where I can combine **statistics, programming, machine learning, and business problem-solving**.
+I’m interested in opportunities where I can combine **technical skills and analytical thinking** to turn complex data into meaningful insights.
 
----
+
 ## 🚀 Featured Projects
 
 ### Table of Contents
 
-- ⚖️ [Legal Clause Classification with ML](#-legal-clause-classification-with-ml)
+- 📊 [Sales Performance Report](#-Sales-Performance-Report)
 - 🏪 [Retail Site Selection — Orlando](#-retail-site-selection--orlando)
 - 📈 [Walmart Weekly Sales Forecasting](#-walmart-weekly-sales-forecasting)
+- ⚖️ [Legal Clause Classification with ML](#-legal-clause-classification-with-ml)
 - 🏠 [Airbnb Price Predictor](#-airbnb-price-predictor)
 - 🤖 [AI Document Assistant](#-ai-document-assistant)
 - 🧠 [Bank Churn Prediction — ChurnOrbit](#-bank-churn-prediction--churnorbit)
 ---
+### 📊 Sales Performance Report
+**Data Analytics • SQL • Databricks • Python • Pandas • Matplotlib**
+
+End-to-end sales analytics project that evaluates sales performance across products, regions, and time to uncover business trends and recommend actionable improvements.
+- Analyzed sales data from 2021–2023 to evaluate revenue, order volume, and average order value (AOV)
+- Used SQL in Databricks to aggregate data and calculate key performance metrics
+- Compared product category and regional performance to identify top-performing markets and revenue contributors
+- Visualized monthly sales trends, order volume, and AOV using Python, Pandas, and Matplotlib
+- Developed data-driven recommendations to address seasonal sales declines and investigate unusual changes in sales performance
+
+**→ [View Project](https://github.com/SH205/Sales-Performance-Report)**
+
+### 🏪 Retail Site Selection — Orlando
+
+**Data Engineering • SQL • Python • Geospatial Analysis • Business Intelligence**
+
+Business Problem: Where should a retail company open its next location in the Orlando market?
+
+End-to-end data engineering and analytics project that identifies and ranks potential retail locations in the Orlando market.
+
+* Analyzed **267 census tracts** and **194 potential locations**
+* Integrated **U.S. Census and OpenStreetMap** data for demographics, competition, and accessibility
+* Developed a **Site Selection Score** to rank retail opportunities
+* Identified the **top 20 locations** and built an interactive HTML map
+
+**→ [View Project](https://github.com/SH205/Retail-Location-Selection)**
+
+### 📈 Walmart Weekly Sales Forecasting
+
+**Time Series Forecasting • Python • Pandas • Statsmodels • ARIMA/SARIMA**
+
+**Business Problem: How accurately can historical sales data forecast future weekly demand for operational planning?**
+
+* Analyzed **2 years of weekly sales data** and identified **52-week seasonal patterns**
+* Built and evaluated **ARIMA and SARIMA** forecasting models using time-based train/test validation
+* Achieved **6.86% MAPE**, **$104.9K MAE**, and **$122.6K RMSE** on the test set
+* Performed **residual analysis** and found approximately **1.07% average forecast bias** relative to average weekly sales
+* Compared **forecasted vs. actual sales** to evaluate model performance
+
+**→ [View Project](https://github.com/SH205/Walmart-Weekly-Sales-Forecasting)**
 
 ### ⚖️ Legal Clause Classification with ML
 
@@ -38,36 +79,6 @@ End-to-end NLP and machine learning project that classifies legal documents acro
 
 **→ [View Project](https://github.com/SH205/Legal-Clause-Classification-with-ML)**
 
-
-### 🏪 Retail Site Selection — Orlando
-
-**Data Engineering • SQL • Python • Geospatial Analysis • Business Intelligence**
-
-Business Problem: Where should a retail company open its next location in the Orlando market?
-
-End-to-end data engineering and analytics project that identifies and ranks potential retail locations in the Orlando market.
-
-* Analyzed **267 census tracts** and **194 potential locations**
-* Integrated **U.S. Census and OpenStreetMap** data for demographics, competition, and accessibility
-* Developed a **Site Selection Score** to rank retail opportunities
-* Identified the **top 20 locations** and built an interactive HTML map
-
-**→ [View Project](https://github.com/SH205/Retail-Location-Selection)**
-
-
-### 📈 Walmart Weekly Sales Forecasting
-
-**Time Series Forecasting • Python • Pandas • Statsmodels • ARIMA/SARIMA**
-
-**Business Problem: How accurately can historical sales data forecast future weekly demand for operational planning?**
-
-* Analyzed **2 years of weekly sales data** and identified **52-week seasonal patterns**
-* Built and evaluated **ARIMA and SARIMA** forecasting models using time-based train/test validation
-* Achieved **6.86% MAPE**, **$104.9K MAE**, and **$122.6K RMSE** on the test set
-* Performed **residual analysis** and found approximately **1.07% average forecast bias** relative to average weekly sales
-* Compared **forecasted vs. actual sales** to evaluate model performance
-
-**→ [View Project](https://github.com/SH205/Walmart-Weekly-Sales-Forecasting)**
 
 ### 🏠 Airbnb Price Predictor
 
@@ -118,10 +129,10 @@ Analyzed customer data and developed interactive visualizations to identify cust
 Python • SQL • R
 
 **Data Science & Machine Learning:**
-Pandas • NumPy • Scikit-learn • Statistical Modeling • Feature Engineering • Model Evaluation • Predictive Modeling • GeoPandas • Leaflet.js 
+Pandas • NumPy • Scikit-learn • Statistical Modeling • Feature Engineering • Model Evaluation • Predictive Modeling 
 
 **Data & Analytics:**
-Tableau • Streamlit • Data Visualization • Exploratory Data Analysis 
+Tableau • Matplotlib • Seaborn • Data Visualization • Exploratory Data Analysis 
 
 **AI / Generative AI:**
 LangChain • RAG • FAISS • Hugging Face
